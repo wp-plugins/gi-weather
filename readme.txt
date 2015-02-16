@@ -9,7 +9,9 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.htmlGet weather data for a cer
 
 == Description ==
 
-GI Weather Plugin is a simple tool that help you to obtain current weather data for any city in the world. =features:* Retrieve weather data for a certain city or by tracing user loaction. * Ready to use Widget. * Shortcodes ready. * BuddyPress Profile Integration.  
+GI Weather Plugin is a simple tool that help you to obtain current weather data for any city in the world. =features:=* Retrieve weather data for a certain city or by tracing user loaction. * Ready to use Widget. * Shortcodes ready. * BuddyPress Profile Integration.
+For more information about the plugin or how to use shortcodes you can <a href="http://gicoder.net/docs/gi-weather/">visit GI Coder website</a>
+  
 
 == Installation ==
 
