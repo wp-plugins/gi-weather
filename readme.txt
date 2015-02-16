@@ -3,13 +3,22 @@ Contributors: GICoder,
 Tags: weather, open weathr api, forcasting, location, timezone, buddypress
 Requires at least: 4.0
 Tested up to: 4.1
-Stable tag: 1.0
-License: GPLv2 or later
+Stable tag: 1.0 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.htmlGet weather data for a certain location or your ouwn visitor location
 
 == Description ==
 
-GI Weather Plugin is a simple tool that help you to obtain current weather data for any city in the world. = Features = * Retrieve weather data for a certain city or by tracing user loaction. * Ready to use Widget. * Shortcodes ready. * BuddyPress Profile Integration.  
+GI Weather Plugin is a simple tool that help you to obtain current weather data for any city in the world.
+= Features =
+* Retrieve weather data for a certain city or by tracing user loaction. 
+* Ready to use Widget. 
+* Shortcodes ready. 
+* BuddyPress Profile Integration.
+
+
+For more information about the plugin or how to use shortcodes you can <a href="http://gicoder.net/docs/gi-weather/">visit GI Coder website</a>
+  
+
 
 == Installation ==
 
@@ -38,4 +47,4 @@ For more information about the plugin or how to use shortcodes you can <a href="
 
  =1.0= * Retreive weather data from Open Weather API. * Add Shortcodes. * BuddyPress Integration. == Changelog ==
 
- =1.0= * Retreive weather data from Open Weather API. * Add Shortcodes. * BuddyPress Integration.
+= =1.0= * Retreive weather data from Open Weather API. * Add Shortcodes. * BuddyPress Integration.
