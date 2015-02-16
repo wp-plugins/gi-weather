@@ -4,7 +4,7 @@ Tags: weather, open weathr api, forcasting, location, timezone, buddypress
 Requires at least: 4.0
 Tested up to: 4.1
 Stable tag: 1.0
-License: GPLv2 or later
+.0License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.htmlGet weather data for a certain location or your ouwn visitor location
 
 == Description ==
