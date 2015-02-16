@@ -2,7 +2,7 @@
 /*
 Plugin Name: GI Weather
 Description: This plugin integrates Open Weather API with WordPress users and other popular plugins
-Version: 1.0
+Version: 1.0.0
 Plugin URI: http://gicoder.net/
 Author: GI Coder
 Author URI: http://gicoder.net/
